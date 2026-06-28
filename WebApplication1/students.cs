@@ -2,6 +2,6 @@
 {
     public class students
     {
-        console.writeline("this is new class");
+        console.writeline("this class is added from visual studio");
     }
 }
