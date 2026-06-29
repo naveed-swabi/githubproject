@@ -2,6 +2,6 @@
 {
     public class students
     {
-        console.writeline("this class is added");
+        console.writeline("this class is added by naveed ahmad");
     }
 }
