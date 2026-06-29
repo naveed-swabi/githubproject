@@ -3,5 +3,6 @@
     public class subject
     {
         Console.writeline("class ist will be c#");
+        console.writeline("2nd class will be fundamental of computer");
     }
 }
